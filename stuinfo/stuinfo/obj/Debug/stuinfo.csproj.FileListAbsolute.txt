@@ -1,0 +1,10 @@
+C:\Users\rukai\source\repos\stuinfo\stuinfo\bin\Debug\stuinfo.exe.config
+C:\Users\rukai\source\repos\stuinfo\stuinfo\bin\Debug\stuinfo.exe
+C:\Users\rukai\source\repos\stuinfo\stuinfo\bin\Debug\stuinfo.pdb
+C:\Users\rukai\source\repos\stuinfo\stuinfo\obj\Debug\stuinfo.csproj.AssemblyReference.cache
+C:\Users\rukai\source\repos\stuinfo\stuinfo\obj\Debug\stuinfo.Form1.resources
+C:\Users\rukai\source\repos\stuinfo\stuinfo\obj\Debug\stuinfo.Properties.Resources.resources
+C:\Users\rukai\source\repos\stuinfo\stuinfo\obj\Debug\stuinfo.csproj.GenerateResource.cache
+C:\Users\rukai\source\repos\stuinfo\stuinfo\obj\Debug\stuinfo.csproj.CoreCompileInputs.cache
+C:\Users\rukai\source\repos\stuinfo\stuinfo\obj\Debug\stuinfo.exe
+C:\Users\rukai\source\repos\stuinfo\stuinfo\obj\Debug\stuinfo.pdb
